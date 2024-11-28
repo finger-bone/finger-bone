@@ -4,8 +4,6 @@
 
 <summary>WakaTime Stats</summary>
 
-### WakaTime Stats
-
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zend&layout=compact)
 
 </details>
