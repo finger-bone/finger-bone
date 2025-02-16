@@ -10,7 +10,7 @@ Notes in English
 
 - [NN-based Machine Translation](https://finger-bone.github.io/xun-fei-datawhale-translation/)
 - [Introduction to WebGPU](https://finger-bone.github.io/triangles-on-web/)
-- [Accelerate Pytorch Tools](https://finger-bone.github.io/faster-pytorch/)
+- [Pytorch Acceleration Tools](https://finger-bone.github.io/faster-pytorch/)
 - [Introduction to Reinforcement Learning](https://finger-bone.github.io/rl-crashcourse/)
 - [Build a Tiny React Clone](https://finger-bone.github.io/tiny-react/)
 
