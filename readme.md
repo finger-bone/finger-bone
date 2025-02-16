@@ -13,6 +13,7 @@ Notes in English
 - [Pytorch Acceleration Tools](https://finger-bone.github.io/faster-pytorch/)
 - [Introduction to Reinforcement Learning](https://finger-bone.github.io/rl-crashcourse/)
 - [Build a Tiny React Clone](https://finger-bone.github.io/tiny-react/)
+- [Introduction to OpenCL](https://finger-bone.github.io/introduction-to-opencl/)
 
 <details>
 
