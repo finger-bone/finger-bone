@@ -17,6 +17,7 @@ Notes in English
 - [Classical ML Basics](https://finger-bone.github.io/classical-ml-basics/)
 - [Parallel Programming Essentials](https://finger-bone.github.io/parallel-programming-essentials/)
 - [Signal and Its Processing](https://finger-bone.github.io/signal-and-its-processing/)
+- [Language Automa and Compiler](https://finger-bone.github.io/language-automa-and-compiler/)
 
 <details>
 
