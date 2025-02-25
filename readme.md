@@ -15,7 +15,8 @@ Notes in English
 - [Build a Tiny React Clone](https://finger-bone.github.io/tiny-react/)
 - [Introduction to OpenCL](https://finger-bone.github.io/introduction-to-opencl/)
 - [Classical ML Basics](https://finger-bone.github.io/classical-ml-basics/)
-- [Parallel Programming Essentials](https://finger-bone.github.io/parallel-programming-essentials)
+- [Parallel Programming Essentials](https://finger-bone.github.io/parallel-programming-essentials/)
+- [Signal and Its Processing](https://finger-bone.github.io/signal-and-its-processing/)
 
 <details>
 
